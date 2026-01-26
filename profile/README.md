@@ -1,8 +1,11 @@
-## MARSEILLE MATERIALS MODELLING (Swinburne Group)
+## MARSEILLE MATERIALS MODELLING (PI: TD Swinburne)
 
-**Simulation codes of Swinburne Group, CINaM UMR7325, Aix-Marseille University**
+**This is largely archival; active codes are hosted at https://github.com/tomswinburne**
 
-- **[PAFI](https://github.com/marseille-matmol/pafi)** : Linear-scaling evaluation of anharmonic free energy barriers in LAMMPS (PRL 2018)
+*Please see website for full list of publications*
+Tom Swinburne https://tomswinburne.github.io<br>
+
+- **[PAFI](https://github.com/tomswinburne/pafi)** : Linear-scaling evaluation of anharmonic free energy barriers in LAMMPS (PRL 2018)
 - **[TAMMBER](https://github.com/marseille-matmol/tammber)** : Massively parallel exploration of energy landscapes (NPJ CM 2020)
 - **[LML-RETRAIN](https://github.com/marseille-matmol/LML-retrain)** : Hybrid <i>ab initio</i>-machine learning simulations of dislocations (Acta Mat 2023)
 
