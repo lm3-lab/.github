@@ -1,6 +1,6 @@
-## LM3: Learning Multiscale Materials Models (PI: TD Swinburne)
-
-*Please see website for full list of publications*
-Tom Swinburne https://tomswinburne.github.io<br>
+## LM3: Learning Multiscale Materials Models 
+### (PI: TD Swinburne)
+### University of Michigan and CNRS
+### https://lm3-lab.github.io
 
       
